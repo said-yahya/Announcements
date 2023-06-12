@@ -1,0 +1,3 @@
+#### DATABASE setting
+-----  CREATE USER "user_name" WITH PASSWORD 'password';
+-----  CREATE DATABASE "announcements_db" OWNER 'user_name';
