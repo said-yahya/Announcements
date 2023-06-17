@@ -82,7 +82,7 @@ DATABASES = {
         'USER': 'announcements_user',
         "PASSWORD": 'announcements_pass',
         "HOST": 'localhost',
-        "PORT": 5432    #write your local port
+        "PORT": 5433    #write your local port
     }
 }
 
